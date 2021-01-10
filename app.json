@@ -54,12 +54,6 @@
         "text": "首页"
       },
       {
-        "pagePath": "pages/catalog/catalog",
-        "iconPath": "static/images/ic_menu_sort_nor.png",
-        "selectedIconPath": "static/images/ic_menu_sort_pressed.png",
-        "text": "分类"
-      },
-      {
         "pagePath": "pages/cart/cart",
         "iconPath": "static/images/ic_menu_shoping_nor.png",
         "selectedIconPath": "static/images/ic_menu_shoping_pressed.png",
